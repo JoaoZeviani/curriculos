@@ -1,2 +1,2 @@
 # curriculos
-Curriculos (em português e inglês)
+Currículos (em português e inglês)
